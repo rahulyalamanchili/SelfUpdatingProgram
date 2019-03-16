@@ -8,4 +8,7 @@ VERSION = 2.0
 def main():
     print("Running main(), Version: "+str(VERSION))
     
-main()
+if __name__ == '__main__':
+    # test1.py executed as script
+    # do something
+    main()
