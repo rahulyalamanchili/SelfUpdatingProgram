@@ -6,6 +6,6 @@ This is the main program that will be deployed to clients
 VERSION = 2.0
 
 def main():
-    print("Running main()"+str(VERSION))
+    print("Running main(), Version: "+str(VERSION))
     
 main()
