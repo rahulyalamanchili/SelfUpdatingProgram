@@ -1,10 +1,10 @@
 """
 This is the main program that will be deployed to clients
 
-@author: yalam
+@author: Rahul Yalamanchili
 """
 
 def main():
-    print("Running main() 1.0")
+    print("Running main() 2.0")
     
 main()
